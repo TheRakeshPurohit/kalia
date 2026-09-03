@@ -119,7 +119,7 @@
     "list.highlightForeground": "#38d85d",
 
     "panel.background": "#0a0b0f",
-    "panel.border": "#0000",
+    "panel.border": "#000",
     "panelTitle.activeBorder": "#2e2e37",
 
     "peekView.border": "#000",
@@ -146,7 +146,7 @@
     "sideBarSectionHeader.background": "#0a0b0f",
     "sideBarSectionHeader.foreground": "#777777",
     "sideBarTitle.foreground": "#5a5a5a",
-    "sideBar.border": "#000",
+    "sideBar.border": "#2f2e2e",
 
     "statusBar.background": "#000",
     "statusBar.debuggingBackground": "#2e2e2e",
@@ -209,7 +209,7 @@
     },
     {
       "scope": ["comment"],
-      "settings": { "foreground": "#664e4e" }
+      "settings": { "foreground": "#948585" }
     },
     {
       "scope": ["storage.type.class", "storage.type.function", "keyword.declaration.dart"],
