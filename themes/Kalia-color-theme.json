@@ -44,7 +44,7 @@
 
     "editorCursor.foreground": "#9e9e9e", // cursor
     "editorError.foreground": "#ff0032",
-    "editorGroup.border": "#0a0b0f",
+    "editorGroup.border": "#2f2e2e",
     "editorGroupHeader.tabsBorder": "#0000",
     "editorGutter.addedBackground": "#1e6d3e", // new lines
     "editorGutter.deletedBackground": "#ff0032", // deleted lines
